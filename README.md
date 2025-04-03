@@ -25,9 +25,12 @@ This task involves performing Computational fluid behaviour on the Airfoil we de
 
 # 3) Piston and crankshaft mechanism
 This task we had to design a piston and a crankshaft mechanism which can run.The piston and crankshaft mechanism is a fundamental component of internal combustion engines, converting reciprocating (linear) motion into rotational motion. It consists of:
-1)Piston – A cylindrical component that moves up and down inside the cylinder due to expanding gases from fuel combustion.
-2)Connecting Rod – Links the piston to the crankshaft, transferring motion while allowing angular movement.
-3)Crankshaft – A rotating shaft that converts the piston's linear motion into rotational motion, ultimately driving the vehicle's wheels or machinery
+1) Piston – A cylindrical component that moves up and down inside the cylinder due to expanding gases from fuel combustion.
+
+2) Connecting Rod – Links the piston to the crankshaft, transferring motion while allowing angular movement.
+
+3) Crankshaft – A rotating shaft that converts the piston's linear motion into rotational motion, ultimately driving the vehicle's wheels or machinery
+
 As the piston moves due to combustion, it pushes the connecting rod, which rotates the crankshaft in a continuous cycle. This mechanism is essential for engines in cars, motorcycles, and other machinery.
 ![Screenshot 2025-04-02 125743](https://github.com/user-attachments/assets/386cdc6e-bdf1-45da-bf39-663063773a75)
 
@@ -40,11 +43,15 @@ The tasks reqires us to design a **Lego Man** on fusion 360, assemble it and the
 GD&T, or Geometric Dimensioning and Tolerancing, is a standardized system using symbols on engineering drawings to define and communicate the acceptable variations in the geometry and dimensions of manufactured parts, ensuring they fit and function as intended
 In Fusion 360, GD&T can be applied in 2D drawings using the Tolerance Feature. Users can assign geometric tolerances such as:
 
-1)Form tolerances (Flatness, Straightness, Circularity, Cylindricity)
-2)Orientation tolerances (Perpendicularity, Parallelism, Angularity)
-3)Location tolerances (Position, Concentricity, Symmetry)
-4)Profile tolerances (Profile of a Line, Profile of a Surface)
-5)Runout tolerances (Circular Runout, Total Runout)
+1) Form tolerances (Flatness, Straightness, Circularity, Cylindricity)
+
+2) Orientation tolerances (Perpendicularity, Parallelism, Angularity)
+
+3) Location tolerances (Position, Concentricity, Symmetry)
+
+4) Profile tolerances (Profile of a Line, Profile of a Surface)
+
+5 )Runout tolerances (Circular Runout, Total Runout)
 ![Screenshot 2025-04-03 114306](https://github.com/user-attachments/assets/b00134dc-7cb1-43b0-b24b-173510cb45f1)
 
 # 6) Introduction to laser engraving
