@@ -69,13 +69,21 @@ Several software programs are commonly used for designing and preparing files fo
 
 # Electronics Tasks
 # 1)Create A Voltage Multiplier
-This project involves designing a voltage multiplier circuit using a 555 Timer IC and capacitor pump stages to step up a 9V DC input to 27V DC using TinkerCad.
-Components Required:
-1 × 555 Timer IC
-4 × 1N4148 diodes
-4 × Electrolytic capacitors (10µF – 100µF, rated 50V)
-2 × Resistors (for 555 Timer timing circuit, e.g., 4.7kΩ and 47kΩ)
-1 × Ceramic capacitor (1nF – 10nF for 555 Timer stability)
+This project aims to design a capacitor pump (charge pump) voltage multiplier using a 555 Timer IC as an oscillator. The goal is to increase a 9V input to 18V and then cascade it to 27V using a sequential charge-pump circuit. The design is implemented in TinkerCad for simulation and testing.
+
+Circuit Explanation
+### 555 Timer IC as an Oscillator
+The 555 Timer is configured in astable mode to generate a square wave.
+The frequency and duty cycle of the waveform are controlled using resistors and capacitors.
+The generated pulse signal drives the capacitor pump stages.
+
+### Charge Pump (Voltage Doubler & Tripler)
+The circuit uses diodes and capacitors in a charge-pump configuration.
+The first stage doubles the input (9V → 18V) using a voltage doubler circuit.
+A second stage cascades the pump to triple the voltage (18V → 27V).
+
+### Oscilloscope Readings
+The waveforms on the oscilloscope confirm the oscillation of the 555 Timer and the stepped-up voltage levels at different stages.
 ![Screenshot 2025-04-01 214839](https://github.com/user-attachments/assets/efe9730b-e261-4fc3-a28c-fb1cbe7538f8)
 
 # 2)  Colpitts Chaos
@@ -103,4 +111,28 @@ The MATLAB Simulink Onramp course is a free, interactive online course provided 
 5)Parameter Tuning – Adjusting model properties dynamically.
 6)Subsystems and Hierarchy – Organizing models efficiently.
 ![Screenshot 2025-04-03 115622](https://github.com/user-attachments/assets/cd22b3b3-e15f-47d2-925b-9588579a4d9b)
+
+# 4) Create a circuit that provides short-circuit protection.
+This project involves designing a simple short-circuit protection circuit using a relay, LEDs, and a battery-powered motor system. The goal is to prevent damage to components by cutting off power in case of a short circuit.
+
+### Circuit Explanation
+1) Power Source: The circuit is powered by a 6V battery pack (four 1.5V AA batteries in series).
+
+2)Relay (KS2E-M-DC5): The heart of the protection mechanism is a 5V relay, which acts as an automatic switch to disconnect the load in case of a short circuit.
+
+3)Motor Load: A small DC motor is connected as the primary load.
+
+### Indicators:
+
+A red LED indicates a short-circuit condition.
+
+A green LED signals normal operation.
+
+Push Buttons: Used to control the relay mechanism, allowing for manual reset after a fault.
+
+Connections: The relay coil is activated by the control circuit, and in case of a short circuit, the relay opens, disconnecting the motor and protecting the system.
+
+This circuit provides a simple yet effective short-circuit protection mechanism by utilizing a relay to break the connection when an overcurrent situation occurs, preventing damage to components.
+![Screenshot 2025-04-03 161411](https://github.com/user-attachments/assets/4be3dd90-8f8b-4103-8ae2-79bc38126f00)
+![Screenshot 2025-04-03 161424](https://github.com/user-attachments/assets/e026b42d-1c83-4e55-9ee6-a3b02b2fc327)
 
