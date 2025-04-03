@@ -8,10 +8,10 @@ This is a detailed report on the MARVEL LEVEL 3 D&P Tasks. The tasks include the
 5) Geometric Dimensioning and Tolerancing (GD&T)
 6) Introduction to laser engraving
 ### Electronics Tasks.
-1)Create A Voltage Multiplier
+1) Create A Voltage Multiplier
 2) Create a circuit that provides short-circuit protection.
 3) Colpitts Chaos
-4)Complete the Simulink and Stateflow onRamp Course and get certified 
+4) Complete the Simulink and Stateflow onRamp Course and get certified 
 
 # MECHANICAL.
 # 1)Assembly & Simulation
