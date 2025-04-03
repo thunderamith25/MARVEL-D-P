@@ -89,8 +89,9 @@ A Colpitts oscillator is a type of LC oscillator where the feedback network cons
 ### Run Simulation:
 Set Transient Analysis for at least 10 ms.
 Observe oscillations in the output waveform
-![Screenshot 2025-04-02 141906](https://github.com/user-attachments/assets/d32689ec-8a90-4f55-a727-cb610071b4b3)
-![Screenshot 2025-04-02 142033](https://github.com/user-attachments/assets/18c2bdbe-53f6-4adf-b9fa-fd2bebb50d1d)
+![Colpits LC OSci (1)](https://github.com/user-attachments/assets/33afaae3-aef4-4746-bf3c-466dffb25c10)
+![Colpits LC Osci (2)](https://github.com/user-attachments/assets/3dfd3fe3-8976-4527-a978-82c75c796e45)
+
 
 # 3) Complete the Simulink and Stateflow onRamp Course
 The MATLAB Simulink Onramp course is a free, interactive online course provided by MathWorks to introduce users to Simulink, a block diagram environment for modeling, simulating, and analyzing dynamic systems.
