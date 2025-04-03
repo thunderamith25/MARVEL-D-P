@@ -15,13 +15,14 @@ This is a detailed report on the MARVEL LEVEL 3 D&P Tasks. The tasks include the
 
 # MECHANICAL.
 # 1)Assembly & Simulation
-The tasks includes to design a robotic arm gripper using the Fusion 360 Software. The design parameters are in mm. This is a **Pnematic Gripper** which is used in many industry scale applications.
+The tasks includes to design a robotic arm gripper using the Fusion 360 Software. The design parameters are in mm. This is a **Pneumatic Gripper** which is used in many industry scale applications.
 ![9pkdv4](https://github.com/user-attachments/assets/564ae23a-a2c3-421b-bc4b-54b2a3cfc41e)
 
 # 2) Computational Fluid Dynamics
 This task involves performing Computational fluid behaviour on the Airfoil we designed in the previous task. The environment which is used is air. The input velocity hitting the camber line is 50 m/s and the output is 0m/s. The airfoil chosen is NACA2414. 25 iterations have been successfully performed on the airfoil
 ![Screenshot 2025-04-02 133235](https://github.com/user-attachments/assets/6ea6ca27-6ab3-4498-96e6-36abbee99484)
 ![Screenshot 2025-04-02 134414](https://github.com/user-attachments/assets/43d2c7fc-bd16-49fd-be40-305b081d7eec)
+
 # 3) Piston and crankshaft mechanism
 This task we had to design a piston and a crankshaft mechanism which can run.The piston and crankshaft mechanism is a fundamental component of internal combustion engines, converting reciprocating (linear) motion into rotational motion. It consists of:
 1)Piston – A cylindrical component that moves up and down inside the cylinder due to expanding gases from fuel combustion.
@@ -29,10 +30,12 @@ This task we had to design a piston and a crankshaft mechanism which can run.The
 3)Crankshaft – A rotating shaft that converts the piston's linear motion into rotational motion, ultimately driving the vehicle's wheels or machinery
 As the piston moves due to combustion, it pushes the connecting rod, which rotates the crankshaft in a continuous cycle. This mechanism is essential for engines in cars, motorcycles, and other machinery.
 ![Screenshot 2025-04-02 125743](https://github.com/user-attachments/assets/386cdc6e-bdf1-45da-bf39-663063773a75)
+
 # 4)Animation and rendering. 
 The tasks reqires us to design a **Lego Man** on fusion 360, assemble it and then render it into new environments. The 2nd task includes here is that we conduct a motion study on the joints and tweak it to make the **Lego Man** perform the movents of the joints of Lego man.
 ![9pke0m](https://github.com/user-attachments/assets/0bc487fb-8bb2-4150-ab2c-07894f211fe7)
 ![Screenshot 2025-04-02 141155](https://github.com/user-attachments/assets/2a4d4442-9b32-4835-9591-774c86609361)
+
 # 5) Geometric Dimensioning and Tolerancing (GDnT)
 GD&T, or Geometric Dimensioning and Tolerancing, is a standardized system using symbols on engineering drawings to define and communicate the acceptable variations in the geometry and dimensions of manufactured parts, ensuring they fit and function as intended
 In Fusion 360, GD&T can be applied in 2D drawings using the Tolerance Feature. Users can assign geometric tolerances such as:
@@ -116,7 +119,7 @@ The MATLAB Simulink Onramp course is a free, interactive online course provided 
 This project involves designing a simple short-circuit protection circuit using a relay, LEDs, and a battery-powered motor system. The goal is to prevent damage to components by cutting off power in case of a short circuit.
 
 ### Circuit Explanation
-1) Power Source: The circuit is powered by a 6V battery pack (four 1.5V AA batteries in series).
+1)Power Source: The circuit is powered by a 6V battery pack (four 1.5V AA batteries in series).
 
 2)Relay (KS2E-M-DC5): The heart of the protection mechanism is a 5V relay, which acts as an automatic switch to disconnect the load in case of a short circuit.
 
@@ -124,13 +127,13 @@ This project involves designing a simple short-circuit protection circuit using 
 
 ### Indicators:
 
-A red LED indicates a short-circuit condition.
+1)A red LED indicates a short-circuit condition.
 
-A green LED signals normal operation.
+2)A green LED signals normal operation.
 
-Push Buttons: Used to control the relay mechanism, allowing for manual reset after a fault.
+3)Push Buttons: Used to control the relay mechanism, allowing for manual reset after a fault.
 
-Connections: The relay coil is activated by the control circuit, and in case of a short circuit, the relay opens, disconnecting the motor and protecting the system.
+4)Connections: The relay coil is activated by the control circuit, and in case of a short circuit, the relay opens, disconnecting the motor and protecting the system.
 
 This circuit provides a simple yet effective short-circuit protection mechanism by utilizing a relay to break the connection when an overcurrent situation occurs, preventing damage to components.
 ![Screenshot 2025-04-03 161411](https://github.com/user-attachments/assets/4be3dd90-8f8b-4103-8ae2-79bc38126f00)
