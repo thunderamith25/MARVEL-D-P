@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4a1bcee5-88c1-4fa7-a8c1-0f8b7f522f52)# MARVEL-D-P
+# MARVEL-D-P
 This is a detailed report on the MARVEL LEVEL 3 D&P Tasks. The tasks include the following.
 ### Mechanical Tasks
 1) Assembly & Simulation
