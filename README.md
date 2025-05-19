@@ -80,9 +80,10 @@ Several software programs are commonly used for designing and preparing files fo
 
 # 7) Genrative Design.
 Generative design in Fusion 360 refers to an advanced design process that uses artificial intelligence and computational algorithms to create optimized design solutions based on user-defined constraints and goals.
-### Benefits
-	1. Efficiency: It drastically speeds up the design process by automating iteration, often producing solutions in hours that would take weeks manually.
-	2. Optimization: Designs are inherently optimized for performance, weight, or cost based on your inputs, leading to innovative, high-performing parts.
+## Benefits
+
+1. Efficiency: It drastically speeds up the design process by automating iteration, often producing solutions in hours that would take weeks manually.
+2. Optimization: Designs are inherently optimized for performance, weight, or cost based on your inputs, leading to innovative, high-performing parts.
 The shelf bracket designed in Autodesk Fusion 360 utilizes the generative design workflow to achieve a structurally optimized form while minimizing material usage. The bracket connects a horizontal platform to a vertical wall, providing support for shelving systems.
 The material I have used for the bracket is AWS Plastic and the holes are where the loads are applied.
 
