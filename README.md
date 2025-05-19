@@ -1,4 +1,4 @@
-# MARVEL-D-P
+![image](https://github.com/user-attachments/assets/4a1bcee5-88c1-4fa7-a8c1-0f8b7f522f52)# MARVEL-D-P
 This is a detailed report on the MARVEL LEVEL 3 D&P Tasks. The tasks include the following.
 ### Mechanical Tasks
 1) Assembly & Simulation
@@ -7,6 +7,7 @@ This is a detailed report on the MARVEL LEVEL 3 D&P Tasks. The tasks include the
 4) Animation and rendering
 5) Geometric Dimensioning and Tolerancing (GD&T)
 6) Introduction to laser engraving
+7) Generative Design
 ### Electronics Tasks.
 1) Create A Voltage Multiplier
 2) Create a circuit that provides short-circuit protection.
@@ -76,6 +77,25 @@ Several software programs are commonly used for designing and preparing files fo
 2)LaserGRBL – A free and lightweight option for controlling GRBL-based laser engravers.
 3)RDWorks – Used with Ruida controller-based laser machines, offering design and control features.
 4)EZCAD – Commonly used for fiber laser engravers, especially for metal marking.
+
+# 7) Genrative Design.
+Generative design in Fusion 360 refers to an advanced design process that uses artificial intelligence and computational algorithms to create optimized design solutions based on user-defined constraints and goals.
+### Benefits
+	1. Efficiency: It drastically speeds up the design process by automating iteration, often producing solutions in hours that would take weeks manually.
+	2. Optimization: Designs are inherently optimized for performance, weight, or cost based on your inputs, leading to innovative, high-performing parts.
+The shelf bracket designed in Autodesk Fusion 360 utilizes the generative design workflow to achieve a structurally optimized form while minimizing material usage. The bracket connects a horizontal platform to a vertical wall, providing support for shelving systems.
+The material I have used for the bracket is AWS Plastic and the holes are where the loads are applied.
+
+Key considerations in this design included:
+
+* Load-bearing capability under gravity (shelf + contents).
+* Material efficiency.
+* Aesthetic appeal through organic geometry
+
+![Screenshot 2025-05-19 182317](https://github.com/user-attachments/assets/f9a79ca1-e33f-47d5-9e8b-3c77d1ab32c9)
+![Screenshot 2025-05-19 182337](https://github.com/user-attachments/assets/cd3cee81-2b35-48e5-beb3-78eb50e8f122)
+
+
 
 # Electronics Tasks
 # 1)Create A Voltage Multiplier
